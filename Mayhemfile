@@ -1,0 +1,5 @@
+project: oksvg
+target: oksvg
+cmds:
+  - cmd: /fuzz_svgcolor
+    env: {}
